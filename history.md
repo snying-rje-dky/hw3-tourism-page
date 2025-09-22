@@ -3,7 +3,7 @@ title: Berribula History
 layout: splash
 excerpt: With history dating all the way back to 10,000 B.C.E.
 header: 
-    overlay_image: /assets/images/history.jpg
+    overlay_image: /assets/images/history.jpeg
     overlay_filter: linear-gradient(rgba(60, 174, 187, 0.25), rgba(253, 242, 224, 0.25))
     caption: "Photo Credit: [Drax](https://www.drax.com/uk/sustainable-bioenergy/estonia-catchment-area-analysis/)"
     actions:
@@ -31,10 +31,14 @@ feature_row:
   alt: "Berribula's nature"
   title: Berribula and Nature
   excerpt: The History of Berribula is closely tied to the evolution of nature, the very root of all magic.
-  url: "https://www.drax.com/uk/sustainable-bioenergy/estonia-catchment-area-analysis/"
+  url: "https://www.gettyimages.com/detail/photo/ponthus-beech-royalty-free-image/167076876"
   btn_label: "Image Source"
   btn_class: "btn--inverse"
 
-
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
 
