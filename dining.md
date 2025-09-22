@@ -19,3 +19,5 @@ In Berribula, savory flavors reign. Smoky lakefish roasted over juniper wood and
 Magic flavors the savory dishes: witches add protective herbs to broths, alchemists stir glowing oils into roasted meats, and fire-roasted nuts sprinkled with cumin and coriander add crunch and warmth. Festivals celebrate the heartier fare! Spiced meat pies, fragrant mushroom pottages, and savory tarts filled with roasted roots and berries.
 
 Dining in Berribula is a feast of earthy, spiced, and magical flavors. Hearty, warm, and utterly satisfying.
+
+[Back to Home](/index.md){: .btn .btn--primary .btn--small}

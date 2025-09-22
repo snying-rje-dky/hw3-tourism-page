@@ -14,4 +14,5 @@ We do more than show you the sights. We bring the culture, traditions, and spiri
 
 Berribula Adventures: Experience history. Discover authenticity. Feel the magic.
 
-[Start Your Journey Now](/signup.md){: .btn .btn--primary .btn--small}
+[Start Your Journey Now](/signup.md){: .btn .btn--primary .btn--small} 
+[Back to Home](/index.md){: .btn .btn--primary .btn--small}
