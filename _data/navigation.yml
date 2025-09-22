@@ -3,10 +3,10 @@ main:
     url: /about
   - title: "What To Do"
     url: /activities
-  - title: "Berribula History"
-    url: /history
   - title: "Cuisine"
     url: /dining
+  - title: "Berribula History"
+    url: /history
 
 #sidebar:#title: "Home"
     #url: /index
