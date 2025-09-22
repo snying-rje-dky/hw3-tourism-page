@@ -1,20 +1,25 @@
 main:
+
   - title: "About"
     url: /about
+
   - title: "What To Do"
     url: /activities
+
   - title: "Cuisine"
     url: /dining
+    
   - title: "Berribula History"
     url: /history
 
-#sidebar:#title: "Home"
-    #url: /index
-  - #title: "About"
-    #url: /about
-  - #title: "What To Do"
-    #url: /activities
-  - #title: "Berribula History"  
-    #url: /history
-  - #title: "Cuisine"
-    #url: /dining
+#docs:
+  - #title: Nagivation
+    #children:
+      #- #title: "About"
+        #url: /docs/quick-start-guide/
+      #- #title: "Structure"
+        #url: /docs/structure/
+      #- title: "Installation"
+      #url: /docs/installation/
+      #- title: "Upgrading"
+        #url: /docs/upgrading/

@@ -1,6 +1,4 @@
 ---
-title: What to D
+title: What to Do in Berribula
 layout: single
 ---
-
-Wow, this is what it's all about.
