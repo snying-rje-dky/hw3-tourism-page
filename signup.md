@@ -7,6 +7,9 @@ header:
     caption: "Photo Credits: [NPS](https://www.nps.gov/articles/000/shootingstars.htm)"
 
 ---
+
+![Rabbit](standing.jpg){: .align-center}
+
 Berribula might not exist in real life, but it could exist...in our hearts.
 
 [Back to Home](/index.md){: .btn .btn--primary .btn--small}
