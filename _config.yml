@@ -3,6 +3,7 @@ author :
   name : Daycho
   email : dkyude25@stlawu.edu
   github : snying-rje-dky
+  avatar : assets/images/avatar.jpg
 
 url: "https://snying-rje-dky.github.io" # the base hostname & protocol for your site
 baseurl: "/hw3-tourism-page" # the subpath of your site, e.g. /repositoryname
