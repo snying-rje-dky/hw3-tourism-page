@@ -8,7 +8,7 @@ header:
 
 ---
 
-![Rabbit](standing.jpg){: .align-center}
+![Rabbit](/assets/images/standing.jpg){: .align-center}
 
 Berribula might not exist in real life, but it could exist...in our hearts.
 
