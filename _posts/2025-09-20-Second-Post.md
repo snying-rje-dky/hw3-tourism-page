@@ -1,6 +1,6 @@
 ---
 layout: single
-title: My First Post!
+title: All About Berribulan Culture
 author_profile: true
 ---
 

@@ -1,3 +1,9 @@
 main:
   - title: "About"
     url: /about
+  - title: "What To See"
+    url: /activities
+  - title: "Berribula History"
+    url: /history
+  - title: "Cuisine"
+    url: /dining
