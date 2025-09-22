@@ -7,3 +7,15 @@ main:
     url: /history
   - title: "Cuisine"
     url: /dining
+
+docs:
+  - title: "Menu"
+    children:
+      - title: "About"
+        url: /about
+      - title: "What To Do"
+        url: /activities
+      - title: "Berribula History"
+        url: /history
+      - title: "Cuisine"
+        url: /dining

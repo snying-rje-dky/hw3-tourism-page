@@ -10,4 +10,4 @@ header:
     overlay_filter: rgba(57, 99, 86, 0.65) #the image is from the Studio Ghibli film 'Arrietty' (2010)
 ---
 
-# This is my home page!
+# Latest Articles
