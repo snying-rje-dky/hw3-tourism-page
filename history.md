@@ -23,7 +23,7 @@ feature_row:
 - image_path: assets/images/medicine.jpg
   alt: "Medical Chart for Berribula Healers"
   title: Berribula Medicine
-  exercept: Berribula is home to some of the world's greatest healers, all for the best price...Free!
+  excerpt: Berribula is home to some of the world's greatest healers, all for the best price...Free!
   url: "https://vajrayana.com.au/introduction-to-tibetan-medicine/"
   btn_label: "Image source"
   btn_class: "btn--inverse"
