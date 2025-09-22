@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Visit Berribula
+title: Visit Berribula, the magic starts here.
 excerpt: Home to the world's most skilled artisans, witches, and the sweetest berries you'll ever taste. Whatever you wish to explore, we'll make it happen.
 header:
     overlay_image: /assets/images/ghibli01.jpg
