@@ -1,16 +1,15 @@
 title : Willowmist Destinations
-subtitle : Explore the mysteries of 
+subtitle : Explore the mysteries of Berribulla
 author :
   name : Daycho
   email : dkyude25@stlawu.edu
   github : snying-rje-dky
 
 url: "https://snying-rje-dky.github.io" # the base hostname & protocol for your site
-baseurl: "/willowmist-destinations" # the subpath of your site, e.g. /repositoryname
+baseurl: "/hw3-tourism-page" # the subpath of your site, e.g. /repositoryname
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
 minimal_mistakes_skin: "dirt"
-repository: "snying-rje-dky/hw3-tourism-page"
 
 
 kramdown:
