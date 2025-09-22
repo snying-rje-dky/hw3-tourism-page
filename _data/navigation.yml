@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /about
-  - title: "What To See"
+  - title: "What To Do"
     url: /activities
   - title: "Berribula History"
     url: /history
