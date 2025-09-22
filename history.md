@@ -23,11 +23,11 @@ feature_row:
 - image_path: assets/images/medicine.jpg
   alt: "Medical Chart for Berribula Healers"
   title: Berribula Medicine
-  exercept: Berribula is home to some of the world's greatest healers, all for the best price - Free! #
+  exercept: Berribula is home to some of the world's greatest healers, all for the best price...Free!
   url: "https://vajrayana.com.au/introduction-to-tibetan-medicine/"
   btn_label: "Image source"
   btn_class: "btn--inverse"
-- image_path: assets/images/trees.jpg #
+- image_path: assets/images/trees.jpg 
   alt: "Berribula's nature"
   title: Berribula and Nature
   excerpt: The History of Berribula is closely tied to the evolution of nature, the very root of all magic.
