@@ -8,6 +8,7 @@ header:
         - label: "Learn More"
           url: /about
     overlay_filter: rgba(57, 99, 86, 0.65) #the image is from the Studio Ghibli film 'Arrietty' (2010)
+nav: sidebar
 ---
 
 # Latest Articles
