@@ -33,8 +33,10 @@ feature_row:
   btn_class: "btn--inverse"
 
 ---
-[Back to Home](/index.md){: .btn .btn--primary .btn--small}
+
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+[Back to Home](/index.md){: .btn .btn--primary .btn--small}
