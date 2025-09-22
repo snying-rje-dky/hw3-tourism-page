@@ -1,14 +1,14 @@
-title : The Land of The Reed
-author : 
+title : The First Jekyll Site
+author :
   name : Daycho
   email : dkyude25@stlawu.edu
   github : snying-rje-dky
 
 url: "https://snying-rje-dky.github.io" # the base hostname & protocol for your site
-baseurl: "/hw3-tourism" # the subpath of your site, e.g. /repositoryname
+baseurl: "/jekyll-sample" # the subpath of your site, e.g. /repositoryname
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "sunrise"
 
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks

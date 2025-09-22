@@ -1,13 +1,13 @@
 ---
 layout: home
-title: The Land of The Reed
-excerpt: Journey to the mystical 
-header: 
-    overlay_image: /assets/images/ghibli01.jpg
+title: Welcome Home! :D 
+excerpt: We are testing this excerpt
+header:
+    overlay_image: /assets/images/chihiro.jpg
     actions:
         - label: "Learn More"
           url: /about
-    overlay_filter: rgba(210, 127, 205, 0.25)
+    overlay_filter: rgba(157, 58, 15, 0.5)
 ---
 
-# The Land of the Reed
+# This is my home page!

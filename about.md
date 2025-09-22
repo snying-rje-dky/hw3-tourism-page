@@ -1,7 +1,6 @@
 ---
-title: Learn More
+title: About
 layout: single
 ---
 
-
-Welcome to the Reed.
+Wow, this is what it's all about.
