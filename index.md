@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Welcome Home! :D 
-excerpt: We are testing this excerpt
+title: Explore the magic, your journey starts here.
+excerpt: Welcome to Berribula
 header:
-    overlay_image: /assets/images/chihiro.jpg
+    overlay_image: /assets/images/ghibli01.jpg
     actions:
         - label: "Learn More"
           url: /about
