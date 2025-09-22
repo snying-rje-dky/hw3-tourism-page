@@ -10,10 +10,10 @@ header:
         - label: "Learn More"
           url: /about
         - label: "Berribula Culture"
-          url: /index
+          url: "https://snying-rje-dky.github.io/hw3-tourism-page/2025/09/20/Second-Post.html"
 
 feature_row:
-- image_path: assets/images/witchcraft.jpg #
+- image_path: assets/images/witchcraft.jpg
   alt: "The History of Witches in Berribula"
   title: Berribula's Witch Heritage
   excerpt: Tapestry from the year 1000 B.C.E, a portrait of one of Berribula's pioneers in witchcraft, Ivy Yuljanga
@@ -26,7 +26,7 @@ feature_row:
   exercept: Berribula is home to some of the world's greatest healers, all for the best price - Free! #
   url: "https://vajrayana.com.au/introduction-to-tibetan-medicine/"
   btn_label: "Image source"
-  btn_class: "btn--inverse" #i added this because of the tutorial but I do not fully understand why it's there...yet...updated note| the inverse makes the button have a black border, i looked at the utility classes for buttons
+  btn_class: "btn--inverse"
 - image_path: assets/images/trees.jpg #
   alt: "Berribula's nature"
   title: Berribula and Nature
