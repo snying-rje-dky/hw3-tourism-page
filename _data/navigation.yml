@@ -8,14 +8,13 @@ main:
   - title: "Cuisine"
     url: /dining
 
-sidebar:
-  - title: "Home"
-    url: /index
-  - title: "About"
-    url: /about
-  - title: "What To Do"
-    url: /activities
-  - title: "Berribula History"  
-    url: /history
-  - title: "Cuisine"
-    url: /dining
+#sidebar:#title: "Home"
+    #url: /index
+  - #title: "About"
+    #url: /about
+  - #title: "What To Do"
+    #url: /activities
+  - #title: "Berribula History"  
+    #url: /history
+  - #title: "Cuisine"
+    #url: /dining
