@@ -12,9 +12,6 @@ header:
         - label: "Raving Reviews"
           url: "https://www.youtube.com/watch?v=CnEJlPAl_mQ"
 
-
-
-
 ---
 
 In Berribula, savory flavors reign. Smoky lakefish roasted over juniper wood and rubbed with forest pepper, tender root tubers baked with wild garlic and thyme, and spiced venison stews rich with cinnamon, star-anise, and cloves fill every table. Mushrooms from misty forests are sautéed in herb-infused oils, and fresh greens tossed with nutty seeds and tangy berry vinaigrettes balance the richness of each meal.
