@@ -5,7 +5,7 @@ excerpt: Home to the world's most skilled artisans, witches, and the sweetest be
 header:
     overlay_image: /assets/images/ghibli01.jpg
     actions:
-        - label: "Learn More"
+        - label: "Start Now"
           url: /about
     overlay_filter: rgba(57, 99, 86, 0.65) #the image is from the Studio Ghibli film 'Arrietty' (2010)
 

@@ -7,7 +7,7 @@ header:
     overlay_filter: linear-gradient(rgba(60, 174, 187, 0.25), rgba(253, 242, 224, 0.25))
     caption: "Photo Credit: [Drax](https://www.drax.com/uk/sustainable-bioenergy/estonia-catchment-area-analysis/)"
     actions:
-        - label: "Learn More"
+        - label: "Start now"
           url: /about
         - label: "Berribula Culture"
           url: "https://snying-rje-dky.github.io/hw3-tourism-page/2025/09/20/Second-Post.html"

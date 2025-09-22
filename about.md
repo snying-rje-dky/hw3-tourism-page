@@ -13,3 +13,5 @@ Step into the heart of Berribula with Berribula Adventures. We connect travelers
 We do more than show you the sights. We bring the culture, traditions, and spirit of this extraordinary land to life, leaving every visitor with a true sense of its magic.
 
 Berribula Adventures: Experience history. Discover authenticity. Feel the magic.
+
+[Start Your Journey Now](/signup.md){: .btn .btn--primary .btn--small}

@@ -7,7 +7,7 @@ header:
     overlay_filter: linear-gradient(rgba(0, 12, 92, 0.83), rgba(252, 195, 104, 0.25))
     caption: "Photo Credit: [UFL](https://explore.research.ufl.edu/night-lights.html)"
     actions:
-        - label: "Learn More"
+        - label: "Start Now"
           url: /about
 
 feature_row:
