@@ -1,9 +1,19 @@
 ---
 title: Berribulan Cuisine
-layout: splash
+layout: single
 excerpt: Unforgettable Flavours, One Booking Away.
 header: 
-    overlay_colour: "
+    overlay_image: /assets/images/food.png    
+    overlay_filter: linear-gradient(rgba(244, 162, 48, 0.5), rgba(253, 242, 224, 0.5))
+    caption: "Photo Credit: [Enchanted Living Magazing](https://enchantedlivingmagazine.com/old-world-food-magic/)"
+    actions:
+        - label: "Learn More"
+          url: /about
+        - label: "Raving Reviews"
+          url: "https://www.youtube.com/watch?v=CnEJlPAl_mQ"
+
+
+
 
 ---
 
