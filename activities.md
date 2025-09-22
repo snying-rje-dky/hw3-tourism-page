@@ -21,7 +21,7 @@ feature_row:
 - image_path: assets/images/berry.png
   alt: "Msity Berry Season"
   title: Berry Berribula
-  execerpt: Pick some of Berribula's finest produce, each berry etched in the magic cast onto the soil.
+  excerpt: Pick some of Berribula's finest produce, each berry etched in the magic cast onto the soil.
   url: "https://www.homesandgardens.com/gardens/foraging-for-berries"
   btn_class: "btn--inverse"
 - image_path: assets/images/star.png 
